@@ -1,6 +1,6 @@
 {
   "name": "aposto",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A local state management for Apollo GraphQL",
   "main": "dist/index.js",
   "types": "src/index.d.ts",

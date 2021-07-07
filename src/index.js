@@ -658,7 +658,7 @@ const processExp = (
     setTimeout(() => {
       if (ct.cancelled) return;
       onDone(exp.value);
-    });
+    }, exp.ms);
     return;
   }
 
