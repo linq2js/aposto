@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../dist/extras/index.js",
+  "module": "../src/extras/index.js",
+  "types": "../src/extras/index.d.ts"
+}
